@@ -1,0 +1,48 @@
+_repo: Mosses-from-an-Old-Manse-and-Other-Stories_512
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: "\"Young Goodman Brown\" is a short story published in 1835 by American\
+  \ writer Nathaniel Hawthorne. The story takes place in 17th century Puritan New\
+  \ England, a common setting for Hawthorne's works, and addresses the Calvinist/Puritan\
+  \ belief that all of humanity exists in a state of depravity, but that God has destined\
+  \ some to unconditional election through unmerited grace. Hawthorne frequently focuses\
+  \ on the tensions within Puritan culture, yet steeps his stories in the Puritan\
+  \ sense of sin. In a symbolic fashion, the story follows Young Goodman Brown's journey\
+  \ into self-scrutiny, which results in his loss of virtue and belief.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Gothic Fiction
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '512'
+  wikidata: Q595934
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: 'The birthmark -- Young Goodman Brown -- Rappaccini''s daughter --
+  Mrs. Bullfrog -- The celestial railroad -- The procession of life -- Feathertop:
+  a moralized legend -- Egotism; or, the bosom serpent -- Drowne''s wooden image --
+  Roger Malvin''s burial -- The artist of the beautiful.'
+title: Mosses from an Old Manse, and Other Stories
+url: http://www.gutenberg.org/ebooks/512
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Jeune_Ma%C3%AEtre_Brown
+- https://fa.wikipedia.org/wiki/%DA%AF%D9%88%D8%AF%D9%85%D9%86_%D8%A8%D8%B1%D8%A7%D9%88%D9%86_%D8%AC%D9%88%D8%A7%D9%86
+- https://de.wikipedia.org/wiki/Young_Goodman_Brown
+- https://pl.wikipedia.org/wiki/Young_Goodman_Brown
+- https://simple.wikipedia.org/wiki/Young_Goodman_Brown
+- https://en.wikipedia.org/wiki/Young_Goodman_Brown
+- https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%82_%E0%A6%97%E0%A7%81%E0%A6%A1%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8_%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%89%E0%A6%A8
