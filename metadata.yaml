@@ -1,5 +1,8 @@
 _repo: Mosses-from-an-Old-Manse-and-Other-Stories_512
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -17,6 +20,8 @@ description: "\"Young Goodman Brown\" is a short story published in 1835 by Amer
   \ sense of sin. In a symbolic fashion, the story follows Young Goodman Brown's journey\
   \ into self-scrutiny, which results in his loss of virtue and belief.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/512#Mosses-from-an-Old-Manse-and-Other-Stories
 gutenberg_bookshelf: Gothic Fiction
 gutenberg_issued: '1996-04-01'
 gutenberg_type: Text
